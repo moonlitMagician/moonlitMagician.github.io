@@ -1,0 +1,29 @@
+body{
+    margin: 50px;
+    font-family: monospace;
+    background-image: url(images/webbackground.png);
+    color: beige;
+}
+
+header{
+    text-shadow: 3px 2px 3px black;
+    font-family: monospace;
+}
+
+main{
+    text-shadow: 3px 2px 3px black;
+}
+
+.center-text{
+    text-align: center;
+}
+
+header nav {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+audio{
+    color: beige;
+}
